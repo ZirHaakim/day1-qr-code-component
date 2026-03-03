@@ -24,7 +24,7 @@ body {
   padding: 16px 16px 40px 16px;
   border-radius: 20px;
 
-  box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.477);
+  /* box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.477); */
 }
 
 .qr-code {
